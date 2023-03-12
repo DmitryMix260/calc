@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.container{
+    position: absolute;
+    width: 616px;
+    height: 876px;
+    left: 413px;
+    top: 103px;
+
+    background: red;
+    opacity: 0.2;
+    backdrop-filter: blur(2px);
+
+    border-radius: 18px;
+}
